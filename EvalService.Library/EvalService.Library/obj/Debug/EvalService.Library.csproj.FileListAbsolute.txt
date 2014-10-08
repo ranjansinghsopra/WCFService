@@ -1,0 +1,6 @@
+D:\projects\WCFService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.dll.config
+D:\projects\WCFService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.dll
+D:\projects\WCFService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.pdb
+D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.dll
+D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.pdb
+D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.csprojResolveAssemblyReference.cache
