@@ -22,5 +22,8 @@ namespace EvalService.Library
 
         [DataMember]
         public DateTime RaisedAt { get; set; }
+
+        [DataMember]
+        public string Description { get; set; }
     }
 }

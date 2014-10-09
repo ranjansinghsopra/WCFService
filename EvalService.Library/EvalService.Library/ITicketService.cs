@@ -20,5 +20,8 @@ namespace EvalService.Library
         [OperationContract]
         bool Remove(int id);
 
+        [OperationContract]
+        Ticket GetTicketById(int id);
+
     }
 }

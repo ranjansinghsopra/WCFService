@@ -34,5 +34,13 @@ namespace EvalService.Library
             _tickets.Remove(_tickets.Find(t => t.Id == id));
             return true;
         }
+
+
+
+
+        public Ticket GetTicketById(int id)
+        {
+            return _tickets.Find(t => t.Id == id);
+        }
     }
 }

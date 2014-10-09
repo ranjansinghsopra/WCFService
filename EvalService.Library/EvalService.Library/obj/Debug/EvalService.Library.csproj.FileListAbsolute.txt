@@ -4,3 +4,9 @@ D:\projects\WCFService\EvalService.Library\EvalService.Library\bin\Debug\EvalSer
 D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.dll
 D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.pdb
 D:\projects\WCFService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.csprojResolveAssemblyReference.cache
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.dll.config
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.dll
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\bin\Debug\EvalService.Library.pdb
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.csprojResolveAssemblyReference.cache
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.dll
+D:\Projects\GITHome\WCFService\EvalService\EvalService.Library\EvalService.Library\obj\Debug\EvalService.Library.pdb
